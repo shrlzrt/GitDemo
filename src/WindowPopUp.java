@@ -11,5 +11,8 @@ public class WindowPopUp {
 		driver.get("http://admin:admin@the-internet.herokuapp.com/"); //https://the-internet.herokuapp.com/
 		driver.findElement(By.linkText("Basic Auth")).click();
 		System.out.println(driver.findElement(By.cssSelector("p")).getText());	
+		//US Timezone Changes
+		System.out.println("US Timezone Change1");
+		System.out.println("US Timezone Change2");
 	}
 }
