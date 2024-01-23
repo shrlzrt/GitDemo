@@ -15,6 +15,10 @@ public class WindowActivities {
 		driver.navigate().to("https://rahulshettyacademy.com/");
 		// -> driver.navigate will not wait to load all components. Need to internally add implicit wait
 		driver.navigate().back();
-		driver.navigate().forward();		
+		driver.navigate().forward();	
+		//PH Timezone Changes
+		System.out.println("PH Timezone Change2");
+		System.out.println("PH Timezone Change3");
+		System.out.println("PH Timezone Change4");
 	}
 }

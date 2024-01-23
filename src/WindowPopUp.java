@@ -14,5 +14,7 @@ public class WindowPopUp {
 		//US Timezone Changes
 		System.out.println("US Timezone Change1");
 		System.out.println("US Timezone Change2");
+		//PH Timezone Changes
+		System.out.println("PH Timezone Change1");
 	}
 }
