@@ -10,5 +10,10 @@ public class AAA {
 	public void TC2() {
 		System.out.println("GitDemo US timezone");	
 	}
+	
+	@Test
+	public void TC3() {
+		System.out.println("GitStuff PH timezone");	
+	}
 
 }
